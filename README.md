@@ -1,4 +1,7 @@
 ## Qubit Simulations
 
-Whats next?
+What to simulate next?
 
+* Extend to two qubits
+* Quantum Gates
+* SQD Algorithm
